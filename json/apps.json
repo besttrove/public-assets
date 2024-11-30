@@ -31,7 +31,7 @@
       "iOS": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
       "Android": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB"
     },
-    "ShowInMenu": true
+    "ShowInMenu": false
   },
   {
     "name": "V2rayN",
